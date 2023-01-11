@@ -20,3 +20,4 @@ Each implementation is sperately included in the project with the appropriate na
 1. remote_file_storage: Rudimentary implementation of a cloud storage system
 2. remote_synced_directory: Rudimentary implementation of Microsoft Sharepoint
 3. remote_calculator: Rudimentary implementation of a cloud based calculator
+4. vector_clock: Rudimentary implementation demonstrating the working of Vector Clocks
