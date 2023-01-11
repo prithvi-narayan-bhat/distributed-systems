@@ -18,3 +18,4 @@ Each implementation is sperately included in the project with the appropriate na
 
 ## Contents
 1. remote_file_storage: Rudimentary implementation of a cloud storage system
+2. remote_synced_directory: Rudimentary implementation of Microsoft Sharepoint
