@@ -1,2 +1,20 @@
-# remote-file-sync
-Application to Download, Upload, Rename and Delete files between a client and remote server
+# Distributed Systems
+
+## Authors
+Prithvi Bhat
+Arvind Raman
+
+## System Requirements
+* Linux OS (tested on Mint 21)
+ - Any other OS or Linux distro should work just as well
+* Python 3.10
+
+## Organisation and Summary
+Some of the applications in this project were implemented as part of the CSE5306 course requrements offered by Dr Hassanuzzman Noor
+These projects have been implemented using either
+1. Socket programming or
+2. RPCs
+Each implementation is sperately included in the project with the appropriate name
+
+## Contents
+1. remote_file_storage: Rudimentary implementation of a cloud storage system
